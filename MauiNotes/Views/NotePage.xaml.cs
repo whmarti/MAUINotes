@@ -1,5 +1,3 @@
-using UIKit;
-
 namespace MauiNotes.views;
 
 public partial class NotePage : ContentPage

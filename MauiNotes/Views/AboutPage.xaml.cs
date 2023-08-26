@@ -1,4 +1,4 @@
-namespace MauiNotes.views;
+namespace MauiNotes.Views;
 
 public partial class AboutPage : ContentPage
 {
